@@ -14,4 +14,4 @@ I work with Python, R, SQL, Power BI, and Databricks to analyze data, build mode
 - Coming soon...
 
 ## - Contact
-[LinkedIn](https://www.linkedin.com/in/santiago-arce-484894359/)
+[LinkedIn](linkedin.com/in/santiago-valdes-arce/)
